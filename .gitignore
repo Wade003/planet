@@ -1,2 +1,7 @@
 *.dat
 result/
+
+.Rproj.user
+.Rhistory
+.Rdata
+*.Rproj|
